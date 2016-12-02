@@ -6,3 +6,11 @@
 1480616684.491388s 1 :s3://hcp-openaccess/HCP/100307/unprocessed/3T/tfMRI_RELATIONAL_RL/100307_3T_SpinEchoFieldMap_LR.nii.gz?versionId=8fB1wBVqT9jU0AgyjWHbvpnEVVS55T3g
 1480616682.114391s 1 :s3://hcp-openaccess/HCP/100307/unprocessed/3T/tfMRI_SOCIAL_LR/100307_3T_SpinEchoFieldMap_LR.nii.gz?versionId=BFttFyGp6o0E96XnZ3iTgvrbxNIJTve0
 1480616768.431082s 1 :s3://hcp-openaccess/HCP/100307/unprocessed/3T/tfMRI_SOCIAL_RL/100307_3T_SpinEchoFieldMap_LR.nii.gz?versionId=6F0LPy..H0R5_0A5_YC3sQnhBWjLuzR2
+1480637804.632904s 1 :s3://hcp-openaccess/HCP_900/100307/unprocessed/3T/tfMRI_EMOTION_LR/100307_3T_SpinEchoFieldMap_LR.nii.gz?versionId=qfxDBpz.r07dCCO6bn9pe9R_59mkD4Ea
+1480639510.919421s 1 :s3://hcp-openaccess/HCP_900/100307/unprocessed/3T/tfMRI_EMOTION_RL/100307_3T_SpinEchoFieldMap_LR.nii.gz?versionId=AvQ7HEjataYy.0ARGDJ0z9NC3G28a0wM
+1480639531.236771s 1 :s3://hcp-openaccess/HCP_900/100307/unprocessed/3T/tfMRI_LANGUAGE_LR/100307_3T_SpinEchoFieldMap_LR.nii.gz?versionId=VENWUWk_O706Megnz.z8ZKgY.JFpDFVz
+1480639539.799101s 1 :s3://hcp-openaccess/HCP_900/100307/unprocessed/3T/tfMRI_LANGUAGE_RL/100307_3T_SpinEchoFieldMap_LR.nii.gz?versionId=rbL8Jhil2Ra.JQGPxD6aY0yIH2006ozK
+1480639562.325974s 1 :s3://hcp-openaccess/HCP_900/100307/unprocessed/3T/tfMRI_RELATIONAL_LR/100307_3T_SpinEchoFieldMap_LR.nii.gz?versionId=R11r5.0ldSxP1p71UtNZOrGBgbI_UCL2
+1480639569.689723s 1 :s3://hcp-openaccess/HCP_900/100307/unprocessed/3T/tfMRI_RELATIONAL_RL/100307_3T_SpinEchoFieldMap_LR.nii.gz?versionId=OlPhtt_2Mi0xCjVATh39REl9w.UVox81
+1480639574.743412s 1 :s3://hcp-openaccess/HCP_900/100307/unprocessed/3T/tfMRI_SOCIAL_LR/100307_3T_SpinEchoFieldMap_LR.nii.gz?versionId=AalsOxL_vFNQfN6Pmmkz_DM6t07UzD5Q
+1480639580.626144s 1 :s3://hcp-openaccess/HCP_900/100307/unprocessed/3T/tfMRI_SOCIAL_RL/100307_3T_SpinEchoFieldMap_LR.nii.gz?versionId=PlkKW3I8JyA4jcaTB_KOAXQ4sbwkXlEv
